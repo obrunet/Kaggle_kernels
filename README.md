@@ -2,12 +2,12 @@
 All my Kaggle kernels (all made public jupyter notebooks in python) as a competition contributor
 
 
-## Adult Census Income: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
-* Concept : Predict whether or not an applicant will be able to repay a loan
-* Type : Standard supervised binary classification task (RandomForrest, LightGBM, XGBoost models) 
+## Adult Census Income: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
+* Concept : Model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
+* Type : Standard supervised binary classification task (RandomForrest, Decision Tree, Extra Tree Clf) 
 * Dataset : extracted from the 1994 Census bureau database, contains: age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country...
 * Goals :
-  * Get use to usual classification models, tuning hyperparameters
+  * Get use to usual classification models, cross validation & tuning hyperparameters with GridsearchCV. 
   * Features analysis
   
 ## Home Credit Default Risk: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
