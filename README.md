@@ -1,9 +1,18 @@
 # Kaggle_kernels
 All my Kaggle kernels (all made public jupyter notebooks in python) as a competition contributor
 
+
+## Adult Census Income: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
+* Concept : Predict whether or not an applicant will be able to repay a loan
+* Type : Standard supervised binary classification task (RandomForrest, LightGBM, XGBoost models) 
+* Dataset : extracted from the 1994 Census bureau database, contains: age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country...
+* Goals :
+  * Get use to usual classification models, tuning hyperparameters
+  * Features analysis
+  
 ## Home Credit Default Risk: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Concept : Predict whether or not an applicant will be able to repay a loan
-* Type : Standard supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
+* Type : Advanced supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
 * Dataset : previous credits provided by other financial institutions, POS (point of sales) and cash loans, snapshots of credit cards, previous applications and repayment history.
 * Goals :
   * Deal with imbalanced dataset.
