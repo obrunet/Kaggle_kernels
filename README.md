@@ -5,7 +5,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
 ### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Concept : Model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
 * Type : Standard supervised binary classification task (RandomForrest, Decision Tree, Extra Tree Clf) 
-* Dataset : age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain/loss..., hours-per-week, native-country...
+* Dataset : age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
 * Goals :
   * Get use to usual classification models, cross validation & tuning hyperparameters with GridsearchCV. 
   * Features analysis
