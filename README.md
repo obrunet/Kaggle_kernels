@@ -5,7 +5,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
 ### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Concept : Model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
 * Type : Standard supervised binary classification task (RandomForrest, Decision Tree, Extra Tree Clf) 
-* Dataset : extracted from the 1994 Census bureau database, contains: age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country...
+* Dataset : age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain/loss..., hours-per-week, native-country...
 * Goals :
   * Get use to usual classification models, cross validation & tuning hyperparameters with GridsearchCV. 
   * Features analysis
@@ -13,7 +13,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
 ### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Concept : Predict whether or not an applicant will be able to repay a loan
 * Type : Advanced supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
-* Dataset : previous credits provided by other financial institutions, POS (point of sales) and cash loans, snapshots of credit cards, previous applications and repayment history.
+* Dataset : previous credits, POS (point of sales), cash loans, previous applications and repayment history.
 * Goals :
   * Deal with imbalanced dataset.
   * Make prediction when accuracy is not the best metric (ROC AUC is a better representation of model performance)
