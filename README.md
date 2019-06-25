@@ -37,3 +37,14 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * Using SMOTe the Synthetic Minority Over-sampling Technique
   * Testing the LOF model (LocalOutlierFactor)
 
+### Customer Churn: [Kaggle](https://www.kaggle.com/obrunet/customer-churn) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer-Churn/01-Customer-churn_completed.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer-Churn/Customer-churn.pdf)
+* Concept : predict behavior to retain customers
+* Type : supervised binary classification using F1 score
+* Dataset : the ones who left, services, account infos, contract, payment method, charges, demographic info
+* Goals :
+  * Analyze all relevant data and develop focused customer retention programs.
+  * Tuning hyperparameters of differents models
+  * Combining the best models
+  
+  
+   
