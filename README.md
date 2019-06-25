@@ -3,7 +3,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
 
 
 ### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
-* Concept : Model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
+* Concept : model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
 * Type : Standard supervised binary classification task (RandomForrest, Decision Tree, Extra Tree Clf) 
 * Dataset : age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
 * Goals :
@@ -12,7 +12,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   
 ### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Concept : Predict whether or not an applicant will be able to repay a loan
-* Type : Advanced supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
+* Type : advanced supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
 * Dataset : previous credits, POS (point of sales), cash loans, previous applications and repayment history.
 * Goals :
   * Deal with imbalanced dataset.
@@ -21,7 +21,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
 
 ### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Concept : customer segmentation, also known as market basket analysis
-* Type : Unsupervised machine learning technique (KMeans Clustering Model)
+* Type : unsupervised machine learning technique (KMeans Clustering Model)
 * Dataset : CustomerID,Gender,Age, Annual Income (k$) &	Spending Score from a supermarket mall customers
 * Goals :
   * How to achieve customer segmentation using KMeans Clustering.
@@ -29,8 +29,8 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * How the marketing strategy works in real world
 
 ### Fraud Detection: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.pdf)
-* Concept : anomalie detection
-* Type : Advanced supervised binary classification task using Area Under the Precision-Recall Curve (AUPRC)
+* Concept : anomalie / fraud detection
+* Type : advanced supervised binary classification task using Area Under the Precision-Recall Curve (AUPRC)
 * Dataset : Anonymized credit card transactions labeled as fraudulent or genuine, recorded over 2 days
 * Goals :
   * Identify fraudulent credit card transactions, given the class highly imbalance ratio.
