@@ -19,7 +19,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * Make prediction when accuracy is not the best metric (ROC AUC is a better representation of model performance)
   * Features analysis and importances
 
-## Customer Segmentation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.pdf)
+## Customer Segmentation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Concept : customer segmentation, also known as market basket analysis
 * Type : Unsupervised machine learning technique (KMeans Clustering Model)
 * Dataset : CustomerID,Gender,Age, Annual Income (k$) &	Spending Score from a supermarket mall customers
@@ -27,4 +27,13 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * How to achieve customer segmentation using KMeans Clustering.
   * Who are your target customers with whom you can start marketing strategy easy to converse.
   * How the marketing strategy works in real world
+
+## Fraud Detection: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.pdf)
+* Concept : anomalie detection
+* Type : Advanced supervised binary classification task using Area Under the Precision-Recall Curve (AUPRC)
+* Dataset : Anonymized credit card transactions labeled as fraudulent or genuine, recorded over 2 days
+* Goals :
+  * Identify fraudulent credit card transactions, given the class highly imbalance ratio.
+  * Using SMOTe the Synthetic Minority Over-sampling Technique
+  * Testing the LOF model (LocalOutlierFactor)
 
