@@ -2,7 +2,7 @@
 All my Kaggle kernels (all made public jupyter notebooks in python) as a competition contributor
 
 
-## Adult Census Income: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
+## Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Concept : Model explanation - find clear insights on the profiles of the people that make more than USD 50K a year
 * Type : Standard supervised binary classification task (RandomForrest, Decision Tree, Extra Tree Clf) 
 * Dataset : extracted from the 1994 Census bureau database, contains: age, workclass, education, marital-status, occupation, relationship, race, sex, capital-gain, capital-loss, hours-per-week, native-country...
@@ -10,7 +10,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * Get use to usual classification models, cross validation & tuning hyperparameters with GridsearchCV. 
   * Features analysis
   
-## Home Credit Default Risk: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
+## Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Concept : Predict whether or not an applicant will be able to repay a loan
 * Type : Advanced supervised binary classification task (RandomForrest, LightGBM, XGBoost models) using the area under the ROC curve as metric
 * Dataset : previous credits provided by other financial institutions, POS (point of sales) and cash loans, snapshots of credit cards, previous applications and repayment history.
@@ -19,7 +19,7 @@ All my Kaggle kernels (all made public jupyter notebooks in python) as a competi
   * Make prediction when accuracy is not the best metric (ROC AUC is a better representation of model performance)
   * Features analysis and importances
 
-## Customer Segmentation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
+## Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Concept : customer segmentation, also known as market basket analysis
 * Type : Unsupervised machine learning technique (KMeans Clustering Model)
 * Dataset : CustomerID,Gender,Age, Annual Income (k$) &	Spending Score from a supermarket mall customers
