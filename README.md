@@ -4,7 +4,7 @@
 #### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Use case: predict whether income exceeds $50K/yr based on census, define people profiles
 * Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
-* Concepts: supervised binary classification, model explanation / feature analysis, use ofGridsearchCV. 
+* Concepts: supervised binary classification, model explanation / feature analysis, GridsearchCV. 
   
 #### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Use case: predict whether or not an applicant will be able to repay a loan
@@ -14,7 +14,7 @@
 #### Bike Sharing Demand: [Kaggle](https://www.kaggle.com/obrunet/bike-sharing-demand) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.pdf)
 * Use case: forecast use of a city bikeshare system
 * Data: datetime, weather infos, rentals number
-* Concepts: supervised regression (GradientBoosting Reg, Ridge/Lasso), metric: Root Mean Squared Logarithmic Error
+* Concepts: supervised regression (GradientBoosting Reg, Ridge/Lasso), metric: RMSLE
 
 #### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Use case: customer segmentation, target customers with whom you can start marketing strategy
