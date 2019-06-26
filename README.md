@@ -11,6 +11,11 @@
 * Data: previous credits, POS (point of sales), cash loans, previous applications and repayment history
 * Concepts: supervised binary classification (LightGBM, XGBoost), imbalanced classes, metric: area under the ROC curve
 
+#### Bike Sharing Demand: [Kaggle](https://www.kaggle.com/obrunet/bike-sharing-demand) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.pdf)
+* Use case: forecast use of a city bikeshare system
+* Data: datetime, weather infos, rentals number
+* Concepts: supervised regression (GradientBoosting Reg, Ridge/Lasso), metric: Root Mean Squared Logarithmic Error
+
 #### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Use case: customer segmentation, target customers with whom you can start marketing strategy
 * Data: customerID, gender, age, annual income (k$) &	spending score from a supermarket mall customers
@@ -19,7 +24,7 @@
 #### Fraud Detection: [Kaggle](https://www.kaggle.com/obrunet/credit-card-fraud-detection) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer%20Segmentation%20-%20K-Means%20Analysis/k_means.pdf)
 * Use case: anomalie / fraud detection
 * Data: anonymized credit card transactions labeled as fraudulent or genuine, recorded over 2 days
-* Concepts: supervised binary classification, classes highly imbalanced, metric: Area Under the Precision-Recall Curve (AUPRC), use of SMOTe the Synthetic Minority Over-sampling Technique, testing the LOF model (LocalOutlierFactor)
+* Concepts: supervised binary classification, classes highly imbalanced, metric: Area Under the Precision-Recall Curve (AUPRC), PCA, Synthetic Minority Over-sampling Technique (SMOTe) & LOF model (LocalOutlierFactor)
 
 #### Customer Churn: [Kaggle](https://www.kaggle.com/obrunet/customer-churn) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer-Churn/01-Customer-churn_completed.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Customer-Churn/Customer-churn.pdf)
 * Use case: predict behavior to retain customers
