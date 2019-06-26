@@ -4,12 +4,12 @@
 #### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Use case: predict whether income exceeds $50K/yr based on census, define people profiles
 * Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
-* Concepts: supervised binary classification (model explanation / feature analysis, use ofGridsearchCV. 
+* Concepts: supervised binary classification, model explanation / feature analysis, use ofGridsearchCV. 
   
 #### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Use case: predict whether or not an applicant will be able to repay a loan
 * Data: previous credits, POS (point of sales), cash loans, previous applications and repayment history
-* Concepts: supervised binary classification (LightGBM, XGBoost), imbalanced class, metric: area under the ROC curve
+* Concepts: supervised binary classification (LightGBM, XGBoost), imbalanced classes, metric: area under the ROC curve
 
 #### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Use case: customer segmentation, target customers with whom you can start marketing strategy
