@@ -6,7 +6,7 @@
 * Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
 * Concepts: supervised ML binary classification, __model explanation__ / feature analysis, __GridsearchCV__. 
 
-#### Real Estate Price: [Kaggle]() - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.pdf)
+#### Real Estate Price: [Kaggle](https://www.kaggle.com/obrunet/california-housing-prices) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.pdf)
 * Use case: predict a real estate price
 * Data: Median house prices for California districts derived from the 1990 census.
 * Concepts: supervised ML regression, analysis of __geospatial data__ 
