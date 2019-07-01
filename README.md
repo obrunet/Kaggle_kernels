@@ -11,7 +11,7 @@
 * Data: Median house prices for California districts derived from the 1990 census.
 * Concepts: supervised ML regression, analysis of __geospatial data__ 
 
-#### Hybrid Recommendation Engine: [Kaggle]() - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Kaggle/Hybrid_Recommendation_Engine.ipynbb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Hybrid_Recommendation_Engine.pdf)
+#### Hybrid Recommendation Engine: [Kaggle](https://www.kaggle.com/obrunet/recommandation-system) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Kaggle/Hybrid_Recommendation_Engine.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Hybrid_Recommendation_Engine.pdf)
 * Use case: playlist generators for video and music services like Netflix, YouTube and Spotify...
 * Data: 100,000 ratings from 1000 users on 1700 movies (MovieLens 100K Dataset)
 * Concepts: supervised ML, __Hybrid recommender system__ (mix collaborative/content-based filtering) with __lightFM__
