@@ -6,6 +6,11 @@
 * Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
 * Concepts: supervised ML binary classification, __model explanation__ / feature analysis, __GridsearchCV__. 
 
+#### Fashion MNIST: [Kaggle]) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fashion%20MNIST/Kaggle/fashion_mnist.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fashion%20MNIST/Kaggle/fashion_mnist.pdf)
+* Use case: Use a neural network on a classification task of clothes' images into classes
+* Data: 28x28 grayscale images associated with a label from 10 classes
+* Concepts: __Multi Layers Perceptron__ with Tensorflow . 
+
 #### Real Estate Price: [Kaggle](https://www.kaggle.com/obrunet/california-housing-prices) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Real-Estate-Price/California%20Housing%20Prices.pdf)
 * Use case: predict a real estate price
 * Data: Median house prices for California districts derived from the 1990 census.
