@@ -20,7 +20,12 @@
 * Use case: playlist generators for video and music services like Netflix, YouTube and Spotify...
 * Data: 100,000 ratings from 1000 users on 1700 movies (MovieLens 100K Dataset)
 * Concepts: supervised ML, __Hybrid recommender system__ (mix collaborative/content-based filtering) with __lightFM__
-  
+
+#### Image classification: [Notebook]() - [PDF]()
+* Use case: Distinguish images of dogs from cats
+* Data: images in color, 25,000 labeled and 12,500 for the submission purpose
+* Concepts: deep learning / __computer vision__ using __CNN__ with __Tensorflow__ for binary classification
+
 #### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Use case: predict whether or not an applicant will be able to repay a loan
 * Data: previous credits, POS (point of sales), cash loans, previous applications and repayment history
