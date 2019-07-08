@@ -21,7 +21,7 @@
 * Data: 100,000 ratings from 1000 users on 1700 movies (MovieLens 100K Dataset)
 * Concepts: supervised ML, __Hybrid recommender system__ (mix collaborative/content-based filtering) with __lightFM__
 
-#### Image classification: [Notebook]() - [PDF]()
+#### Image classification: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.pdf)
 * Use case: Distinguish images of dogs from cats
 * Data: images in color, 25,000 labeled and 12,500 for the submission purpose
 * Concepts: deep learning / __computer vision__ using __CNN__ with __Tensorflow__ for binary classification
