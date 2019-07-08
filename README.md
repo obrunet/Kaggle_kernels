@@ -23,8 +23,8 @@
 
 #### Image classification: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.pdf)
 * Use case: Distinguish images of dogs from cats
-* Data: images in color, 25,000 labeled and 12,500 for the submission purpose
-* Concepts: deep learning / __computer vision__ using __CNN__ with __Tensorflow__ for binary classification
+* Data: binary classification of images in color, 25,000 labeled and 12,500 unlabeled for the submission purpose
+* Concepts: deep learning / __computer vision__ using __CNN__ with __Tensorflow__ 
 
 #### Home Credit Default Risk: [Kaggle](https://www.kaggle.com/obrunet/home-credit-default-risk) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Home-Credit/Kaggle/Home_credit_default_risk.pdf)
 * Use case: predict whether or not an applicant will be able to repay a loan
