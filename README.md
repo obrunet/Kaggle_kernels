@@ -36,6 +36,11 @@
 * Data: datetime, weather infos, rentals number
 * Concepts: supervised ML regression (__GradientBoosting Reg, __Ridge/Lasso__), metric: __RMSLE__
 
+#### Handwritten Digit Generation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.pdf)
+* Use case: generation of new digits
+* Data: the famous MNIST data intended to learn computer vision fundamentals
+* Concepts: unsupervised deep learning with __G.A.N__ - training of a __Generator__ and a __Discriminator__
+
 #### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Use case: customer segmentation, target customers with whom you can start marketing strategy
 * Data: customerID, gender, age, annual income (k$) &	spending score from a supermarket mall customers
