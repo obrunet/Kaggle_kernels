@@ -56,3 +56,9 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 * Use case: predict behavior to retain customers
 * Data: the ones who left, services, account infos, contract, payment method, charges, demographic info
 * Concepts: supervised ML binary classification, metric: __F1 score, hyperparameters tuning, pipelines__ of models
+
+#### House Prices: [Kaggle]() - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/House-prices/kaggle/house_prices.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/House-prices/kaggle/house_prices.pdf)
+* Use case: predict sales prices
+* Data: area, shape, condition, construction year...
+* Concepts: supervised ML regression, practice __feature engineering__, RFs, and __gradient boosting__
+
