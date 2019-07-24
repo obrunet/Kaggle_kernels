@@ -2,6 +2,9 @@
 
 Here are all the challenges i've made so far. I've started several weeks ago, but now i clean and make those kernels public. Side note: some of my solutions require write permission on the hard drive, so very few kernel could have been released on Kaggle (because write permissions aren't allowed)... 
 
+---
+
+
 #### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Use case: predict whether income exceeds $50K/yr based on census, define people profiles
 * Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
@@ -56,4 +59,3 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 * Use case: predict sales prices
 * Data: area, shape, condition, construction year...
 * Concepts: supervised ML regression, practice __feature engineering__, RFs, and __gradient boosting__
-
