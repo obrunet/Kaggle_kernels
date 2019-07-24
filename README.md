@@ -32,11 +32,6 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 * Data: previous credits, POS (point of sales), cash loans, previous applications and repayment history
 * Concepts: supervised ML binary classification (__LightGBM__, __XGBoost__), imbalanced classes, metric: __area under the ROC curve__
 
-#### Bike Sharing Demand: [Kaggle](https://www.kaggle.com/obrunet/bike-sharing-demand) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing/Kaggle/Bike_sharing.pdf)
-* Use case: forecast use of a city bikeshare system
-* Data: datetime, weather infos, rentals number
-* Concepts: supervised ML regression (__GradientBoosting Reg, __Ridge/Lasso__), metric: __RMSLE__
-
 #### Handwritten Digit Generation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.pdf)
 * Use case: generation of new digits
 * Data: the famous MNIST data intended to learn computer vision fundamentals
