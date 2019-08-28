@@ -4,6 +4,10 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 
 ---
 
+#### Bike Sharing Demand: [Kaggle](https://www.kaggle.com/obrunet/bike-sharing-demand) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing-Demand/Kaggle/Bike_sharing.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing-Demand/Kaggle/Bike_sharing.pdf)
+* Use case: forecast rentals of a city bikeshare system
+* Data: datetime, weather infos, rentals number
+* Concepts: supervised ML regression (__GradientBoosting Reg, __Ridge/Lasso__), metric: __RMSLE__
 
 #### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
 * Use case: predict whether income exceeds $50K/yr based on census, define people profiles
