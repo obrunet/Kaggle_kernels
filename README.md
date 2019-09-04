@@ -5,36 +5,45 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 ---
 
 
+## COMPUTER VISION
 
 #### Fashion MNIST: [Kaggle](https://www.kaggle.com/obrunet/fashion-mnist) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fashion%20MNIST/Kaggle/fashion_mnist.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fashion%20MNIST/Kaggle/fashion_mnist.pdf)
 * Use case: use a neural network on a classification task of clothes' images
 * Data: 28x28 grayscale images associated with a label from 10 classes
 * Concepts: __Multi Layers Perceptron__ with Tensorflow . 
 
-#### Hybrid Recommendation Engine: [Kaggle](https://www.kaggle.com/obrunet/recommandation-system) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Kaggle/Hybrid_Recommendation_Engine.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Hybrid_Recommendation_Engine.pdf)
-* Use case: playlist generators for video and music services like Netflix, YouTube and Spotify...
-* Data: 100,000 ratings from 1000 users on 1700 movies (MovieLens 100K Dataset)
-* Concepts: supervised ML, __Hybrid recommender system__ (mix collaborative/content-based filtering) with __lightFM__
-
 #### Image classification: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Dogs-vs-Cats/Kaggle/dogs_vs_cats.pdf)
 * Use case: Distinguish images of dogs from cats
 * Data: binary classification of images in color, 25,000 labeled and 12,500 unlabeled for the submission purpose
 * Concepts: deep learning / __computer vision__ using __CNN__ with __Tensorflow__ 
-
-#### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
-* Use case: predict whether income exceeds $50K/yr based on census, define people profiles
-* Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
-* Concepts: supervised ML binary classification, __model explanation__ / feature analysis, __GridsearchCV__. 
 
 #### Handwritten Digit Generation: [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Digit_generator/kaggle/Digit-Generator.pdf)
 * Use case: generation of new digits
 * Data: the famous MNIST data intended to learn computer vision fundamentals
 * Concepts: unsupervised deep learning with __G.A.N__ - training of a __Generator__ and a __Discriminator__
 
+## N.L.P
+
+more to come in few days :)
+
+## RECOMMENDATION SYSTEM
+
+#### Hybrid Recommendation Engine: [Kaggle](https://www.kaggle.com/obrunet/recommandation-system) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Kaggle/Hybrid_Recommendation_Engine.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/recommendation/Hybrid_Recommendation_Engine.pdf)
+* Use case: playlist generators for video and music services like Netflix, YouTube and Spotify...
+* Data: 100,000 ratings from 1000 users on 1700 movies (MovieLens 100K Dataset)
+* Concepts: supervised ML, __Hybrid recommender system__ (mix collaborative/content-based filtering) with __lightFM__
+
+## DATA SCIENCE
+
 #### Bike Sharing Demand: [Kaggle](https://www.kaggle.com/obrunet/bike-sharing-demand) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing-Demand/Kaggle/Bike_sharing.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Bike-Sharing-Demand/Kaggle/Bike_sharing.pdf)
 * Use case: forecast rentals of a city bikeshare system
 * Data: datetime, weather infos, rentals number
 * Concepts: supervised ML regression (__GradientBoosting Reg, __Ridge/Lasso__), metric: __RMSLE__
+
+#### Adult Census Income: [Kaggle](https://www.kaggle.com/obrunet/adult-census-income) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Adult%20Census%20Income/Adult%20Census%20Income.pdf)
+* Use case: predict whether income exceeds $50K/yr based on census, define people profiles
+* Data: age, workclass, education, marital-status, occupation, race, sex, capital-gain/loss,hours-per-week, country.
+* Concepts: supervised ML binary classification, __model explanation__ / feature analysis, __GridsearchCV__. 
 
 #### Customer Segmentation: [Kaggle](https://www.kaggle.com/obrunet/customer-segmentation-k-means-analysis) - [Notebook](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.ipynb) - [PDF](https://github.com/obrunet/Kaggle_kernels/blob/master/Fraud%20Detection/Fraud-Detection.pdf)
 * Use case: customer segmentation, target customers with whom you can start marketing strategy
