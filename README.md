@@ -24,7 +24,10 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 
 ## N.L.P
 
-more to come in few days :)
+#### Quora Insincere Questions Classification - PART 1/2 : [Kaggle](https://www.kaggle.com/obrunet/quora-insincere-questions-classification) - [Notebook](https://github.com/obrunet/Kaggle_kernels_2019/blob/master/Quora%20Insincere%20Questions/Kaggle/Quora%20Insincere%20Questions.ipynb) - [PDF]()
+* Use case: generation of new digits
+* Data: the famous MNIST data intended to learn computer vision fundamentals
+* Concepts: unsupervised deep learning with __G.A.N__ - training of a __Generator__ and a __Discriminator__
 
 ## RECOMMENDATION SYSTEM
 
