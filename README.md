@@ -30,9 +30,7 @@ Here are all the challenges i've made so far. I've started several weeks ago, bu
 * Concepts: supervised ML, 1st part : using __N.L.T.K, tokenization, stemming, TF-IDF__ and __CountVectorizer__
 
 #### Quora Insincere Questions Classification - PART 2/2 - COMING SOON : [Kaggle]() - [Notebook]() - [PDF]()
-* Use case: Predict whether a question asked on Quora is sincere or not
-* Data: 1.3M labelled questions text
-* Concepts: 
+* Concepts: __Word embedding, Word2Vec, R.N.N__
 
 ## RECOMMENDATION SYSTEM
 
